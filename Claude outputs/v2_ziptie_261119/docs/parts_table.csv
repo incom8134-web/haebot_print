@@ -1,0 +1,37 @@
+file,qty,color,material,x,y,z,fits,orientation,mass_g,time_h
+door_lo,1,warm white,PETG (ASA final),175.0,202.0,13.0,True,outer face down on textured PEI,143.0,7.9
+door_up,1,warm white,PETG (ASA final),175.0,167.0,13.0,True,outer face down on textured PEI,118.0,6.6
+vent_lo,1,charcoal,PETG (ASA final),202.0,176.0,13.0,True,outer face down,107.0,5.9
+vent_up,1,charcoal,PETG (ASA final),202.0,176.0,13.0,True,outer face down,107.0,5.9
+post_FL_lo,1,warm white,PETG (ASA final),92.0,127.5,215.0,True,"print upright as assembled; gussets under blocks, no supports",164.0,9.1
+post_FL_up,1,warm white,PETG (ASA final),92.0,127.5,213.0,True,"print upright as assembled; gussets under blocks, no supports",171.0,9.5
+post_BL_lo,1,warm white,PETG (ASA final),68.0,127.5,215.0,True,"print upright as assembled; gussets under blocks, no supports",142.0,7.9
+post_BL_up,1,warm white,PETG (ASA final),68.0,127.5,213.0,True,"print upright as assembled; gussets under blocks, no supports",148.0,8.2
+post_FR_lo,1,warm white,PETG (ASA final),92.0,151.5,215.0,True,"print upright as assembled; gussets under blocks, no supports",189.0,10.5
+post_FR_up,1,warm white,PETG (ASA final),92.0,151.5,213.0,True,"print upright as assembled; gussets under blocks, no supports",196.0,10.9
+post_BR_lo,1,warm white,PETG (ASA final),68.0,151.5,215.0,True,"print upright as assembled; gussets under blocks, no supports",167.0,9.3
+post_BR_up,1,warm white,PETG (ASA final),68.0,151.5,213.0,True,"print upright as assembled; gussets under blocks, no supports",174.0,9.6
+rear_lo,1,warm white,PETG (ASA final),175.0,215.0,13.0,True,outer face down,158.0,8.8
+rear_up,1,warm white,PETG (ASA final),175.0,213.0,13.0,True,outer face down,164.0,9.1
+side_L_lo,1,charcoal,PETG (ASA final),215.0,176.0,13.0,True,outer face down,141.0,7.8
+lightbar_side,4,green,PETG (ASA final),90.0,16.0,5.0,True,"push in from inside, dot of hot glue on flange",6.0,0.3
+side_L_up,1,charcoal,PETG (ASA final),213.0,176.0,13.0,True,outer face down,142.0,7.9
+channel_cap_L,1,charcoal,PETG (ASA final),28.0,130.0,13.0,True,outer face down,15.0,0.8
+channel_cap_R,1,charcoal,PETG (ASA final),28.0,130.0,13.0,True,outer face down,15.0,0.8
+brow,1,smoked black,PETG (ASA final),175.0,43.0,13.0,True,front face down; smoked/black PETG,29.0,1.6
+lightbar_brow,2,green,PETG (ASA final),38.0,10.0,5.0,True,"push in from inside, dot of hot glue",1.0,0.1
+shoulder_FL,1,green,PETG (ASA final),156.5,151.5,55.0,True,"top face down, skirts up",153.0,8.5
+shoulder_BL,1,green,PETG (ASA final),156.5,151.5,55.0,True,"top face down, skirts up",153.0,8.5
+shoulder_FR,1,green,PETG (ASA final),156.5,151.5,55.0,True,"top face down, skirts up",153.0,8.5
+shoulder_BR,1,green,PETG (ASA final),156.5,151.5,55.0,True,"top face down, skirts up",153.0,8.5
+splice_shoulder,2,charcoal,PETG (ASA final),30.0,105.0,6.0,True,pins up; dot of glue in each pin hole,13.0,0.7
+plinth_FL,1,charcoal,PETG (ASA final),156.5,216.5,118.0,True,"print upright, chamfered edge on bed",175.0,9.7
+plinth_BL,1,charcoal,PETG (ASA final),156.5,216.5,118.0,True,"print upright, chamfered edge on bed",177.0,9.8
+plinth_FR,1,charcoal,PETG (ASA final),156.5,216.5,118.0,True,"print upright, chamfered edge on bed",175.0,9.7
+plinth_BR,1,charcoal,PETG (ASA final),156.5,216.5,118.0,True,"print upright, chamfered edge on bed",177.0,9.8
+fender_FL,1,medium grey,PETG (ASA final),81.0,160.0,100.0,True,"print as assembled (open edge down), tree supports inside hood only",102.0,5.7
+fender_BL,1,medium grey,PETG (ASA final),81.0,160.0,100.0,True,"print as assembled (open edge down), tree supports inside hood only",102.0,5.7
+fender_FR,1,medium grey,PETG (ASA final),81.0,160.0,100.0,True,"print as assembled (open edge down), tree supports inside hood only",102.0,5.7
+fender_BR,1,medium grey,PETG (ASA final),81.0,160.0,100.0,True,"print as assembled (open edge down), tree supports inside hood only",102.0,5.7
+tray_mount,1,charcoal,PETG (ASA final),177.0,42.5,19.2,True,plate face down,105.0,5.8
+tray,1,medium grey,PETG,146.0,240.0,33.0,True,"original v1 tray geometry, moved +2.5 mm X / +45 mm Z",102.0,5.6

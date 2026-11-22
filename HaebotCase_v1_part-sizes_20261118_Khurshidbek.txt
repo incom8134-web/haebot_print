@@ -1,0 +1,32 @@
+part                                          X mm    Y mm    Z mm  print orientation (already set in the STL/3MF)
+HaebotCase_v1_coupon-seam_B_20261118_Khurshidbek    30.0     4.0    26.0  as assembled
+HaebotCase_v1_coupon-seam_D_20261118_Khurshidbek    50.0    11.3    26.0  as assembled
+HaebotCase_v1_cover-gate_A_20261118_Khurshidbek   199.2   174.4     4.0  flat, outer face down
+HaebotCase_v1_cover-gate_B_20261118_Khurshidbek   199.2   174.4     4.0  flat, outer face down
+HaebotCase_v1_fender_A_20261118_Khurshidbek       136.0    68.0    85.0  mounting flange down, supports under the closed end
+HaebotCase_v1_fender_B_20261118_Khurshidbek       136.0    68.0    85.0  mounting flange down, supports under the closed end
+HaebotCase_v1_fender_C_20261118_Khurshidbek       136.0    68.0    85.0  mounting flange down, supports under the closed end
+HaebotCase_v1_fender_D_20261118_Khurshidbek       136.0    68.0    85.0  mounting flange down, supports under the closed end
+HaebotCase_v1_joiner_01_20261118_Khurshidbek       40.0    36.0     6.0  flat
+HaebotCase_v1_joiner_02_20261118_Khurshidbek       40.0    36.0     6.0  flat
+HaebotCase_v1_joiner_03_20261118_Khurshidbek       40.0    36.0     6.0  flat
+HaebotCase_v1_joiner_04_20261118_Khurshidbek       40.0    36.0     6.0  flat
+HaebotCase_v1_joiner_05_20261118_Khurshidbek       40.0    36.0     6.0  flat
+HaebotCase_v1_joiner_06_20261118_Khurshidbek       40.0    36.0     6.0  flat
+HaebotCase_v1_joiner_07_20261118_Khurshidbek       36.0    40.0     6.0  flat
+HaebotCase_v1_joiner_08_20261118_Khurshidbek       36.0    40.0     6.0  flat
+HaebotCase_v1_joiner_09_20261118_Khurshidbek       36.0    40.0     6.0  flat
+HaebotCase_v1_joiner_10_20261118_Khurshidbek       36.0    40.0     6.0  flat
+HaebotCase_v1_lid-back_C_20261118_Khurshidbek     154.5   163.5     4.0  flat, top face up
+HaebotCase_v1_lid-back_D_20261118_Khurshidbek     154.5   148.4     4.0  flat, top face up
+HaebotCase_v1_lid-front_A_20261118_Khurshidbek    154.5   163.5     4.0  flat, top face up
+HaebotCase_v1_lid-front_B_20261118_Khurshidbek    154.5   148.4     4.0  flat, top face up
+HaebotCase_v1_lower_A_20261118_Khurshidbek        215.0   148.5   255.0  upright, as assembled
+HaebotCase_v1_lower_B_20261118_Khurshidbek        215.0   168.5   255.0  upright, as assembled
+HaebotCase_v1_lower_C_20261118_Khurshidbek        235.0   148.5   255.0  upright, as assembled
+HaebotCase_v1_lower_D_20261118_Khurshidbek        235.0   168.5   255.0  upright, as assembled
+HaebotCase_v1_tray_20261118_Khurshidbek           146.0   240.0    33.0  upright, open side up
+HaebotCase_v1_upper_A_20261118_Khurshidbek        221.0   148.5   255.0  upright, as assembled
+HaebotCase_v1_upper_B_20261118_Khurshidbek        221.0   168.5   255.0  upright, as assembled
+HaebotCase_v1_upper_C_20261118_Khurshidbek        235.0   148.5   255.0  upright, as assembled
+HaebotCase_v1_upper_D_20261118_Khurshidbek        235.0   168.5   255.0  upright, as assembled

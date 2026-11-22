@@ -1,0 +1,37 @@
+file,qty,color,material,x,y,z,fits,orientation,mass_g,time_h
+door_lo,1,warm white,PETG,175.0,202.0,13.0,True,outer face down on textured PEI,143.0,7.9
+door_up,1,warm white,PETG,175.0,163.0,13.0,True,outer face down on textured PEI,115.0,6.4
+vent_lo,1,charcoal,PETG,202.0,176.0,13.0,True,outer face down,107.0,5.9
+vent_up,1,charcoal,PETG,202.0,176.0,13.0,True,outer face down,107.0,5.9
+post_FL_lo,1,warm white,PETG,92.0,127.5,215.0,True,"print upright as assembled; gussets under blocks, no supports",166.0,9.2
+post_FL_up,1,warm white,PETG,92.0,127.5,213.0,True,"print upright as assembled; gussets under blocks, no supports",173.0,9.6
+post_BL_lo,1,warm white,PETG,68.0,127.5,215.0,True,"print upright as assembled; gussets under blocks, no supports",144.0,8.0
+post_BL_up,1,warm white,PETG,68.0,127.5,213.0,True,"print upright as assembled; gussets under blocks, no supports",150.0,8.4
+post_FR_lo,1,warm white,PETG,92.0,151.5,215.0,True,"print upright as assembled; gussets under blocks, no supports",191.0,10.6
+post_FR_up,1,warm white,PETG,92.0,151.5,213.0,True,"print upright as assembled; gussets under blocks, no supports",198.0,11.0
+post_BR_lo,1,warm white,PETG,68.0,151.5,215.0,True,"print upright as assembled; gussets under blocks, no supports",169.0,9.4
+post_BR_up,1,warm white,PETG,68.0,151.5,213.0,True,"print upright as assembled; gussets under blocks, no supports",176.0,9.8
+rear_lo,1,warm white,PETG,175.0,215.0,16.0,True,outer face down,159.0,8.8
+rear_up,1,warm white,PETG,175.0,213.0,16.0,True,outer face down,165.0,9.2
+side_L_lo,1,warm white,PETG,215.0,176.0,16.0,True,outer face down,142.0,7.9
+lightbar_side,4,green,PETG,90.0,16.0,5.0,True,"push in from inside, dot of hot glue on flange",6.0,0.3
+side_L_up,1,warm white,PETG,213.0,176.0,16.0,True,outer face down,143.0,8.0
+channel_cap_L,1,charcoal,PETG,28.0,130.0,29.0,True,outer face down,27.0,1.5
+channel_cap_R,1,charcoal,PETG,28.0,130.0,29.0,True,outer face down,27.0,1.5
+brow,1,smoked black,PETG,175.0,39.0,16.0,True,front face down; smoked/black PETG,28.0,1.6
+lightbar_brow,2,green,PETG,38.0,10.0,5.0,True,"push in from inside, dot of hot glue",1.0,0.1
+shoulder_FL,1,green,PETG,156.5,151.5,55.0,True,"top face down, skirts up",146.0,8.1
+shoulder_BL,1,green,PETG,156.5,151.5,55.0,True,"top face down, skirts up",146.0,8.1
+shoulder_FR,1,green,PETG,156.5,151.5,55.0,True,"top face down, skirts up",146.0,8.1
+shoulder_BR,1,green,PETG,156.5,151.5,55.0,True,"top face down, skirts up",146.0,8.1
+splice_shoulder,2,charcoal,PETG,30.0,105.0,6.0,True,pins up; dot of glue in each pin hole,13.0,0.7
+plinth_FL,1,charcoal,PETG,156.5,216.5,118.0,True,"print upright, chamfered edge on bed",176.0,9.8
+plinth_BL,1,charcoal,PETG,156.5,216.5,118.0,True,"print upright, chamfered edge on bed",178.0,9.9
+plinth_FR,1,charcoal,PETG,156.5,216.5,118.0,True,"print upright, chamfered edge on bed",176.0,9.8
+plinth_BR,1,charcoal,PETG,156.5,216.5,118.0,True,"print upright, chamfered edge on bed",178.0,9.9
+fender_FL,1,medium grey,PETG,100.0,156.5,81.0,True,"PRINT cap-down (axis vertical); flare 40 deg from vertical, no supports",131.0,7.3
+fender_BL,1,medium grey,PETG,100.0,156.5,81.0,True,"PRINT cap-down (axis vertical); flare 40 deg from vertical, no supports",131.0,7.3
+fender_FR,1,medium grey,PETG,100.0,156.5,81.0,True,"PRINT cap-down (axis vertical); flare 40 deg from vertical, no supports",131.0,7.3
+fender_BR,1,medium grey,PETG,100.0,156.5,81.0,True,"PRINT cap-down (axis vertical); flare 40 deg from vertical, no supports",131.0,7.3
+tray_mount,1,charcoal,PETG,177.0,42.5,21.0,True,plate face down,105.0,5.9
+tray,1,medium grey,PETG,146.0,240.0,33.0,True,"original v1 tray geometry, moved +2.5 mm X / +45 mm Z",102.0,5.6
